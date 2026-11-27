@@ -21,7 +21,7 @@ Xuelu Feng, Yunsheng Li, Ziyu Wan, Zixuan Gao, Junsong Yuan, Dongdong Chen, Chun
 
 *European Conference on Computer Vision (ECCV), 2026*
 
-A rubric-guided reinforcement learning framework that improves text-to-image generation through generalizable reward signals.
+RubricRL introduces a reinforcement learning framework that replaces black-box reward signals with prompt-specific rubrics. A multimodal judge independently evaluates fine-grained criteria such as object correctness, attribute accuracy, text rendering, and visual realism, while adaptive weighting prioritizes criteria relevant to each prompt. 
 
 [Paper](https://arxiv.org/abs/2511.20651)
 

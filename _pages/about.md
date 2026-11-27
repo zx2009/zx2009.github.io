@@ -17,7 +17,7 @@ Outside of research, I am a competitive Go player, visual artist, pianist, and v
 
 ### RubricRL: Simple Generalizable Rewards for Text-to-Image Generation
 
-Xuelu Feng, Yunsheng Li, Ziyu Wan, **Zixuan Gao**, Junsong Yuan, Dongdong Chen, Chunming Qiao
+Xuelu Feng, Yunsheng Li, Ziyu Wan, Zixuan Gao, Junsong Yuan, Dongdong Chen, Chunming Qiao
 
 *European Conference on Computer Vision (ECCV), 2026*
 
@@ -35,6 +35,6 @@ A rubric-guided reinforcement learning framework that improves text-to-image gen
 
 *Independent Research, 2026*
 
-This study investigates whether restoration-specific reinforcement learning can improve the quality of old portrait restoration while preserving facial identity and appearance.
+This study investigates whether restoration-specific reinforcement learning can improve old portrait restoration while preserving facial identity and appearance. Using 2,301 training images and a ten-criterion rubric reward, the adapted Qwen-Image-Edit model achieved a 48.0% increase in mean rubric score and was preferred in 73.3% of 1,100 human evaluations, compared to 8.8% for the baseline.
 
-*Preprint forthcoming.*
+[PDF](/files/portrait-restoration.pdf)
